@@ -1,0 +1,11 @@
+{
+  "name": "vehicle-detection-broker",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "stomp-broker-js": "^3.0.0"
+  }
+}
